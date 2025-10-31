@@ -13,8 +13,8 @@ Not sure yet! We will see soon
 
 ## How to test
 
-Explain how to use your project
+Select the chip, put signal in , listen to outputs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Not sure yet
